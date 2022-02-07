@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ataylorme/eslint-annotate-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.0",
-    "@actions/github": "^1.1.0"
+    "@actions/github": "^2.0.0"
   },
   "devDependencies": {
     "@types/eslint": "^6.1.3",
