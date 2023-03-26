@@ -36,7 +36,7 @@
     "eslint-config-prettier": "^6.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1",
-    "jest": "^25.1.0",
+    "jest": "^27.0.0",
     "prettier": "^1.18.2",
     "ts-jest": "^25.0.0",
     "typescript": "^3.7.2"
